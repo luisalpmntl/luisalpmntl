@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&theme=jolly&show_icons=true)
+[Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&theme=jolly&jolly_icons=true)
 <img align="right" alt="Coding" width="400" src="add your link here">
   
 <!--! 
