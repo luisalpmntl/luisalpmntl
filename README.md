@@ -2,7 +2,7 @@
 
 ![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&theme=jolly)
 
-![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&bg_color=00000000)
+
   
 <img align="right" alt="Coding" width="400" src="add your link here">
   
