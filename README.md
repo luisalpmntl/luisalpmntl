@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[Luisa's GitHub stats](https://github-readme-repo.vercel.app/api?username=luisalpmntl&theme=jolly=true)
+{
+    title_color: "ff64da",
+    icon_color: "a960ff",
+    text_color: "ffffff",
+    bg_color: "291B3E",
+  }
+  
 <img align="right" alt="Coding" width="400" src="add your link here">
   
 <!--! 
