@@ -1,6 +1,6 @@
 ### Hello,
 
-My name is Luísa Pimentel and I'm a 21 years old software developer, data analyst and economist. 
+My name is Luísa and I'm a 21 years old software developer, data analyst and lover of economics.
 
 - 🌟 I’m currently working on my clustering skills with R
 - 🌟 I’m currently learning C++
