@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Bruno+Brito;Father+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6;Microsoft+MVP;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
+     <img src="[https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Luísa+Pimentel;Data+Analyst+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6;Economista;Software;Nice+to+meet+you+%F0%9F%98%84](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F531F7&width=435&lines=Lu%C3%ADsa+Pimentel;Data+Analyst)" />
  
 </p>
 
