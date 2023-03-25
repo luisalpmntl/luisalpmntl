@@ -1,17 +1,14 @@
 ### Hi there 👋
 
 ![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&theme=jolly)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisalpmntl&repo=github-readme-stats)](https://github.com/luisalpmntl/github-readme-stats)
-<a href="https://github.com/luisalpmntl/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalpmntl&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/luisalpmntl/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisalpmntl&repo=convoychat" />
-</a>
+ <a href="https://github.com/luisalpmntl">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/luisalpmntl" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/luisalobopimentel">
+  <a href="https://www.linkedin.com/in/luisalobopimentel">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisalobopimentel/" alt="LinkedIn" />
+  </a>
 
-  
-<img align="right" alt="Coding" width="400" src="add your link here">
-  
 <!--! 
 **luisalpmntl/luisalpmntl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
