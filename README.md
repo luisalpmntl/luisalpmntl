@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello,
+
+My name is Luísa Pimentel and I'm a 21 years old software developer, data analyst and economist. 
+
+- 🌟 I’m currently working on my clustering skills with R
+- 🌟 I’m currently learning C++
+- 🌟 Ask me about any economic's related subject
+- 🌟 You can reach me on luisalpmntl@gmail.com
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=250&color=FF45EE&center=true&width=435&lines=Lu%C3%ADsa+Pimentel;Data+Analyst;Nice+to+meet+you+%E2%9D%A4" alt="Typing SVG" /></a>
