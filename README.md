@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&theme=jolly)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # Let's connect? 🤝
 
