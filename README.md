@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-     <img src=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=600&size=23&pause=1000&color=C750E1&center=true&vCenter=true&width=435&lines=Lu%C3%ADsa+Pimentel;Economist;Data+analyst)](https://git.io/typing-svg)
+     <img src=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FiraCode+Serif&weight=600&size=23&pause=1000&color=C750E1&center=true&vCenter=true&width=435&lines=Lu%C3%ADsa+Pimentel;Economist;Data+analyst)](https://git.io/typing-svg)
  />
  
 </p>
