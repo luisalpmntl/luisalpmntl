@@ -13,7 +13,7 @@ My name is Luísa Pimentel and I'm a 21 years old software developer, data analy
 </p>
 
 
-# Let's connect? 
+# Find me elsewhere
 
 <p align="center">
  <a href="https://github.com/luisalpmntl">
