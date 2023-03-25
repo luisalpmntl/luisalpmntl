@@ -19,11 +19,13 @@
  # Analytics ⚙️
 
 <p align="center">
-  <a href="![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&theme=jolly)">
-    <img  alt="Luísa's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?theme=bear" />
+  <a href="[https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&theme=jolly](https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false">
+    <img  alt="Luísa's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false" />
   </a>
   
 </p>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false)](https://git.io/awesome-stats-card)
  
 <!--! 
 **luisalpmntl/luisalpmntl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
