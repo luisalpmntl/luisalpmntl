@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="[https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&theme=jolly](https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false">
-    <img  alt="Luísa's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false" />
+
   </a>
   
 </p>
