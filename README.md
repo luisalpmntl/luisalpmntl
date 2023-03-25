@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-{
-    title_color: "ff64da",
-    icon_color: "a960ff",
-    text_color: "ffffff",
-    bg_color: "291B3E",
-  }
+![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&THEME_JOLLY=radical)
   
 <img align="right" alt="Coding" width="400" src="add your link here">
   
