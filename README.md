@@ -13,6 +13,13 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
 - 🌟 If you want to get in touch with me, drop me an email at luisalpmntl@gmail.com
 
 
+<p align="center">
+<b>If you want to cyberstalk me (in a totally non-creepy way, of course), here's where to do it:<b>
+
+
+
+
+
 
 
 
@@ -24,8 +31,8 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
   <a href="https://www.linkedin.com/in/luisalobopimentel">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisalobopimentel/" alt="LinkedIn" />
   </a>
-   <a href="https://www.instagram.com/henkkisesti">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/henkkisesti/" 
+   <a href="https://www.instagram.com/luisalobopimentel">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luisalobopimentel/" 
 </p>
     
 ## Language and Tools
