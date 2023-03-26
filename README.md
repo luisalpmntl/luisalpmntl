@@ -1,12 +1,14 @@
 <p><br>
- </p>
+</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=250&color=F74FBB&center=true&width=435&lines=Hello!;I'm+Lu%C3%ADsa;I'm+a+Data+Analyst%2C;Software+Developer;and+Economist;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a>
+
 </p>
 <p><br>
- <p><strong>Welcome to my GitHub page!</strong></p> 
- </p>
+
+<p><strong>Welcome to my GitHub page!</strong></p> 
+</p>
 
 I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software development, data analysis, and economics.
 
@@ -18,14 +20,12 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
 - 🌟 If you want to get in touch with me, drop me an email at luisalpmntl@gmail.com
 
 <p><br>
- </p>
+</p>
 
 <p align="center">
 <b>If you want to cyberstalk me (in a totally non-creepy way, of course), here's where to do it:<b>
 
 <p>
-
-
 
 <p align="center">
  <a href="https://github.com/luisalpmntl">
@@ -38,13 +38,14 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
    <a href="https://www.instagram.com/luisalobopimentel">
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luisalobopimentel/" 
 </p>
-    <p><br>
- </p>
+    
+<p><br>
+</p>
 
 <p align="center">    
 <img src="https://i.pinimg.com/originals/01/65/f5/0165f5ac3adb73d682a78e6a71a487ac.gif" alt="Example GIF">
- <p><br>
- </p>
+<p><br>
+</p>
     
     
 ## Language and Tools
