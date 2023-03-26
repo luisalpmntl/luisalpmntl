@@ -42,7 +42,9 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
  </p>
 
 <p align="center">    
-<img src="https://i.pinimg.com/originals/62/b4/d2/62b4d21eb045a1cfb5da1e667fd7a6eb.gif" alt="Example GIF">
+<img src="https://i.pinimg.com/originals/01/65/f5/0165f5ac3adb73d682a78e6a71a487ac.gif" alt="Example GIF">
+ <p><br>
+ </p>
     
     
 ## Language and Tools
