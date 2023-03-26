@@ -1,7 +1,12 @@
+<p><br>
+ </p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=250&color=FF45EE&center=true&width=435&lines=Hello!;I'm+Lu%C3%ADsa;I'm+a+Data+Analyst%2C;Software+Developer;and+Economist;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a>
 </p>
 
+ <p><strong>Welcome to my GitHub page!</strong></p> 
+ </p>
 
 I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software development, data analysis, and economics.
 
@@ -12,14 +17,13 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
 - 🌟 I'm always up for collaborating on new projects and meeting fellow tech enthusiasts!
 - 🌟 If you want to get in touch with me, drop me an email at luisalpmntl@gmail.com
 
+<p><br>
+ </p>
 
 <p align="center">
 <b>If you want to cyberstalk me (in a totally non-creepy way, of course), here's where to do it:<b>
 
-
-
-
-
+<p>
 
 
 
@@ -34,6 +38,12 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
    <a href="https://www.instagram.com/luisalobopimentel">
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luisalobopimentel/" 
 </p>
+    <p><br>
+ </p>
+
+<p align="center">    
+<img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" alt="Example GIF">
+    
     
 ## Language and Tools
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=ff69b4)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=ff69b4)&nbsp;![python](https://img.shields.io/badge/-python-05122A?style=flat&color=ff69b4)&nbsp;![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&color=ff69b4)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=ff69b4)&nbsp;![ruby](https://img.shields.io/badge/-ruby-05122A?style=flat&color=ff69b4)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=ff69b4)&nbsp;
@@ -50,6 +60,7 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
 
 ![JDBC](https://img.shields.io/badge/-JDBC-05122A?style=flat&color=blueviolet)&nbsp;![JDA](https://img.shields.io/badge/-JDA-05122A?style=flat&color=blueviolet)&nbsp;
     
+<p><br>
 
 ## Metrics
 
