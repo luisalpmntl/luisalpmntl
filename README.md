@@ -3,13 +3,14 @@
 </p>
 
 
-My name is Luísa Pimentel and I'm a 21 years old software developer, data analyst and lover of economics.
+I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software development, data analysis, and economics.
 
-- 🌟 I’m currently working on my clustering skills with R
-- 🌟 I’m currently learning C++
-- 🌟 Ask me about any economic's related subject
+- 🌟 I’m currently sharpening my clustering skills using R
+- 🌟 I’m also diving into the world of C++
+- 🌟 Feel free to hit me up if you want to chat about anything related to economics
 - 🌟 I speak English, Portuguese, Spanish and German
-- 🌟 You can reach me on luisalpmntl@gmail.com
+- 🌟 I'm always up for collaborating on new projects and meeting fellow tech enthusiasts!
+- 🌟 If you want to get in touch with me, drop me an email at luisalpmntl@gmail.com
 
 
 
@@ -28,7 +29,7 @@ My name is Luísa Pimentel and I'm a 21 years old software developer, data analy
 </p>
     
 ## Language and Tools
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=ff69b4)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=ff69b4)&nbsp;![python](https://img.shields.io/badge/-python-05122A?style=flat&color=ff69b4)&nbsp;![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&color=ff69b4)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=ff69b4)&nbsp;![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&color=ff69b4)&nbsp;![R](https://img.shields.io/badge/-R-05122A?style=flat&color=ff69b4)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=ff69b4)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=ff69b4)&nbsp;![python](https://img.shields.io/badge/-python-05122A?style=flat&color=ff69b4)&nbsp;![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&color=ff69b4)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=ff69b4)&nbsp;![ruby](https://img.shields.io/badge/-ruby-05122A?style=flat&color=ff69b4)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=ff69b4)&nbsp;
 
 
 
