@@ -2,7 +2,7 @@
  </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=250&color=FF45EE&center=true&width=435&lines=Hello!;I'm+Lu%C3%ADsa;I'm+a+Data+Analyst%2C;Software+Developer;and+Economist;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=250&color=F74FBB&center=true&width=435&lines=Hello!;I'm+Lu%C3%ADsa;I'm+a+Data+Analyst%2C;Software+Developer;and+Economist;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a>
 </p>
 
  <p><strong>Welcome to my GitHub page!</strong></p> 
@@ -64,15 +64,8 @@ I'm Luísa Pimentel, a multi-passionate 21-year-old who loves software developme
     
 <p><br>
 
-## Metrics
 
-<p align="center">
- 
-  <a href="[https://github-readme-stats.vercel.app/api?username=luisalpmntl&show_icons=true&theme=jolly](https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false">
- <img  alt="Luísa's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luisalpmntl?cardType=github&theme=jolly&preferLogin=false" />
-  </a>
-  
-</p>
+
 
 <!--! 
 **luisalpmntl/luisalpmntl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
